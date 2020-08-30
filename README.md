@@ -8,3 +8,9 @@ CEDEC2020のセッションリストをカスタマイズしてNotionにイン�
 
 - BeautifulSoup
 - Python3
+
+## Usage
+
+```shell
+python3 scripts/create_csv.py
+```
