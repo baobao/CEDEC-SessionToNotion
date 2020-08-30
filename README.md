@@ -1,0 +1,2 @@
+# CEDEC2020SessionToNotion
+CEDEC2020のセッションリストをカスタマイズしてNotionにインポートするためのCSVを作成するスクリプト
