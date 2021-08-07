@@ -1,6 +1,6 @@
 # CEDEC SessionToNotion
 
-CEDEC2021のセッションリストをカスタマイズしてNotionにインポートするためのCSVを作成するスクリプト
+[CEDEC2021](https://cedec.cesa.or.jp/2021/)のセッションリストをカスタマイズしてNotionにインポートするためのCSVを作成するスクリプト
 
 [NotionにまとめたCEDEC2021セッションリスト](https://www.notion.so/936b054353b14cbfb748f83b4f385327?v=1f841c200fc1467ea10e6dc5be57098b)
 
