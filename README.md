@@ -5,7 +5,7 @@ CEDEC2021のセッションリストをカスタマイズしてNotionにイン�
 [NotionにまとめたCEDEC2021セッションリスト](https://www.notion.so/936b054353b14cbfb748f83b4f385327?v=1f841c200fc1467ea10e6dc5be57098b)
 
 
-![image](https://user-images.githubusercontent.com/144386/91651749-51365f80-eacb-11ea-8992-8a3e6b6e48a3.png)  
+![image](https://user-images.githubusercontent.com/144386/128589043-508c693a-f577-4df8-960d-c10041355890.png)    
 セッション名、日付、資料公開、発表者名、URLを一覧化したNotion
 
 ## Required
